@@ -1,5 +1,6 @@
-I AM NOT THE DEVELOPER OF THIS SCRIPT I JUST UPLOAD THIS ESX_GANGJOB WITH DISCORD LOGS ( WEBHOOKS )
+I am  the developer of this script, i just upload this esx_gangjob w/ Discord Logs ( WEBHOOKS )
 How to change discord webhooks?
 GO TO SERVER/MAIN.LUA
-"put webhook here" THIS WILL BE THE LINE YOU WILL UPLOAD YOUR DISCORD WEBHOOKS !
-AND CUSTOMIZE IT IF YOU WANT !
+"put webhook here" This will be the line where you can upload your webhooks
+
+Thanks...
